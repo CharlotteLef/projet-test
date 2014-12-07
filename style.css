@@ -45,19 +45,36 @@ footer a{
 }
 
 p{
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
     margin-bottom: 40px;
 }
 h3{
-    margin-right: 35px;
-    margin-left: 35px;
+    margin-right: 150px;
+    margin-left: 150px;
+    font-size: 30px;
+    margin-top: 50px;
 }
 .parischampions{
-    margin-right: 35px;
-    margin-left: 35px;
+    margin-right: 150px;
+    margin-left: 150px;
+    float:left;
+    margin-top: 25px;
+    margin-bottom: 20px;
 }
 .onece{
-    margin-right: 35px;
-    margin-left: 35px;
+    margin-right:150px;
+    margin-left: 150px;
+    margin-top: 70px;
+    float:right;
+}
+.montages{
+    text-align: center;
+}
+.soeurs{
+    float: left;   
+    margin-top: 30px;
+}
+.amorino{
+    float: right;
 }
